@@ -31,6 +31,11 @@
 
 Developed a **backend framework** to scrape and aggregate best deals from major e-commerce websites (Walmart, Target, BestBuy, eBay). Designed and implemented robust API endpoints using **FastAPI**. Integrated **PostgreSQL** for efficient data management and storage. Optimized search performance, reducing query time by 50%. Collaborated in an agile environment, contributing to the project’s successful deployment.
 
+### SimplyClip - Browser Clipboard Extension
+[GitHub Repository](https://github.com/tbattul/SimplyClip)
+
+Developed SimplyClip, a browser extension that enhances productivity by managing multiple text snippets across tabs. It allows users to select, merge, and sort snippets, set reminders, save URLs, and export content to CSV or DOC, with features like dark mode. Utilized **JavaScript** for core interactions and clipboard management, **Python** with **Django** for backend API, and **HTML/CSS** for a responsive interface. Implemented **Node.js** for server logic and used NPM for dependency management, employing ESLint and Prettier to ensure code quality.
+
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Microprocessor Architecture/ Cache and Memory Hierarchy Design

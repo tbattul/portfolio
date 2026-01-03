@@ -6,10 +6,23 @@
 #### Tools: MATLAB, Multisim, Eclipse, SQL Developer, Maven, GIT, Visual Studio Code
 
 ## Education						       		
-- M.S., Computer Science	| North Carolina State University (_May 2025_)	 			        		
-- B.S., Electronics and Communication Engineering | CVR College of Engineering (_May 2022_)
+- M.S., Computer Science	| North Carolina State University (_August 2023 - May 2025_)	 			        		
+- B.S., Electronics and Communication Engineering | CVR College of Engineering (August 2018 - May 2022_)
 
 ## Work Experience
+**Software Engineer @ LexisNexis (_June 2025 - Present_)**
+- Built and maintained backend REST APIs for core product features with a focus on reliability and production stability.
+- Migrated legacy search systems to a cloud-native, microservices architecture, improving scalability and reducing operational cost.
+- Refactored services and improved data access for large-scale document search workloads.
+- Implemented CI/CD pipelines and safer deployment practices (automated testing, dark launches) to reduce risk during releases.
+- Worked closely with cloud infrastructure (AWS) and monitoring to debug performance and production issues.
+  
+**AI/ML Research Assistant @ NC State (_January 2025 - May 2025_)**
+- Developed a Python- and MySQL-based pipeline to evaluate and improve the quality of crowd-labeled datasets.
+- Integrated label quality metrics into an existing ML workflow on the Expertiza platform.
+- Worked on semi-supervised label refinement and quality-aware calibration in human-in-the-loop learning systems.
+- Contributed to research exploring how data reliability impacts downstream model performance.
+  
 **Software Developer @ Valuelabs (_April 2022 - July 2023_)**
 - Developed Java and Spring Boot microservices within Order Management Systems (OMS) to automate the end- to-end process of yearbook orders for 50,000+ schools.
 - Streamlined API development with Spring Boot’s modularity, enhancing scalability and integration.
@@ -24,7 +37,12 @@
 
 **Software Intern @ OpenText (November 2021 - January 2022_)**
 - Gained hands-on experience in software development, where I learned industry best practices and improved my skills in version control using Git, was also introduced to an Agile environment, enhancing my ability to work efficiently within collaborative, iterative development cycles.
-  
+
+## Paper Publications
+### Paper Title: WIP: Quality-Control Metrics for Crowdsourced Labeling: Promoting Dataset Reliability for Machine- Learning Applications. (1571119664)
+
+The paper focuses on defining and evaluating quality-control metrics for crowd-labeled datasets used in machine learning. It examines how inconsistencies and unreliable annotations affect downstream model performance and proposes metrics to identify low-quality labels. The work integrates these metrics into a human-in-the-loop learning pipeline, enabling semi-supervised label refinement without requiring full re-annotation. The core contribution is demonstrating that explicitly modeling label quality can improve dataset reliability and lead to more robust ML systems.
+
 ## Projects
 ### Full Stack Software development/ Slash E-commerce Deal Finder
 [GitHub Repository](https://github.com/MeryHarikaG/slash-phase5)

@@ -1,12 +1,17 @@
 # Software Developer
 
-#### Languages and Web Technologies: Java, Python, C++, C, R, HTML, CSS
-#### Databases: OracleDB, MySQL, MongoDB
-#### Frameworks: Spring Boot, Pandas, Hibernate, JUnit
-#### Tools: MATLAB, Multisim, Eclipse, SQL Developer, Maven, GIT, Visual Studio Code
+#### Languages: Java, Python, C++, C  
+#### Backend & APIs: REST APIs, Microservices Architecture  
+#### Cloud & DevOps: AWS (Lambda, EC2, S3, DynamoDB), CI/CD, GitOps, Docker  
+#### Databases: OracleDB, MySQL, MongoDB  
+#### Search & Data Systems: Apache Solr, MarkLogic  
+#### Frameworks & Libraries: Spring Boot, Hibernate, Pandas  
+#### Testing & Quality: JUnit, Mockito, Postman, Automated Testing  
+#### Tools: Maven, Git, Eclipse, Visual Studio Code, SQL Developer
+
 
 ## Education						       		
-- M.S., Computer Science	| North Carolina State University (_August 2023 - May 2025_)	 			        		
+- M.S., Computer Science	                        | North Carolina State University (_August 2023 - May 2025_)	 			        		
 - B.S., Electronics and Communication Engineering | CVR College of Engineering (August 2018 - May 2022_)
 
 ## Work Experience
@@ -32,10 +37,10 @@
   validation of downstream calls, ensuring efficient and rapid request-response cycles.
 - Monitored logs using Workload Manager to check the flow of the data across different teams and debugging processes.
 
-**Software Development Intern @ Valuelabs (January 2022 - April 2022_)**
+**Software Development Intern @ Valuelabs (_January 2022 - April 2022_)**
 - Performed unit testing automation using JUnit and performance testing using JMeter, resulting in a notable code coverage increase of 92%. Developed exceptional work ethics, time management skills, and teamwork, gaining praise and a full-time position.
 
-**Software Intern @ OpenText (November 2021 - January 2022_)**
+**Software Intern @ OpenText (_November 2021 - January 2022_)**
 - Gained hands-on experience in software development, where I learned industry best practices and improved my skills in version control using Git, was also introduced to an Agile environment, enhancing my ability to work efficiently within collaborative, iterative development cycles.
 
 ## Paper Publications

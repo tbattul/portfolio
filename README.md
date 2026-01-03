@@ -39,7 +39,8 @@
 - Gained hands-on experience in software development, where I learned industry best practices and improved my skills in version control using Git, was also introduced to an Agile environment, enhancing my ability to work efficiently within collaborative, iterative development cycles.
 
 ## Paper Publications
-### Paper Title: WIP: Quality-Control Metrics for Crowdsourced Labeling: Promoting Dataset Reliability for Machine- Learning Applications. (1571119664)
+### Paper Title: WIP: Quality-Control Metrics for Crowdsourced Labeling: Promoting Dataset Reliability for Machine- Learning Applications.
+Paper Submission Link - [1571119664](https://edas.info/uploadPaper.php?m=1571119664)
 
 The paper focuses on defining and evaluating quality-control metrics for crowd-labeled datasets used in machine learning. It examines how inconsistencies and unreliable annotations affect downstream model performance and proposes metrics to identify low-quality labels. The work integrates these metrics into a human-in-the-loop learning pipeline, enabling semi-supervised label refinement without requiring full re-annotation. The core contribution is demonstrating that explicitly modeling label quality can improve dataset reliability and lead to more robust ML systems.
 

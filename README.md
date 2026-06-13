@@ -12,15 +12,15 @@
 
 ## Education						       		
 - M.S., Computer Science	                        | North Carolina State University (_August 2023 - May 2025_)	 			        		
-- B.S., Electronics and Communication Engineering | CVR College of Engineering (August 2018 - May 2022_)
+- B.S., Electronics and Communication Engineering | CVR College of Engineering (_August 2018 - May 2022_)
 
 ## Work Experience
 **Software Engineer @ LexisNexis (_June 2025 - Present_)**
-- Built and maintained backend REST APIs for core product features with a focus on reliability and production stability.
-- Migrated legacy search systems to a cloud-native, microservices architecture, improving scalability and reducing operational cost.
-- Refactored services and improved data access for large-scale document search workloads.
-- Implemented CI/CD pipelines and safer deployment practices (automated testing, dark launches) to reduce risk during releases.
-- Worked closely with cloud infrastructure (AWS) and monitoring to debug performance and production issues.
+- Developed scalable Java/Spring Boot microservices and REST APIs supporting enterprise applications with a focus on performance, reliability, and maintainability.
+- Led migration of legacy MarkLogic-based systems to Apache Solr and cloud-native microservices, modernizing platform architecture and improving scalability.
+- Enhanced search platform performance through indexing optimizations, caching strategies, and query tuning, achieving faster and more efficient data retrieval.
+- Designed and implemented GitOps-based CI/CD pipelines on AWS, enabling automated testing, blue-green deployments, dark launches, and streamlined release management.
+- Leveraged AWS CloudWatch, Coralogix, and Splunk to monitor production systems, investigate incidents, and resolve performance bottlenecks in distributed environments.
   
 **AI/ML Research Assistant @ NC State (_January 2025 - May 2025_)**
 - Developed a Python- and MySQL-based pipeline to evaluate and improve the quality of crowd-labeled datasets.
